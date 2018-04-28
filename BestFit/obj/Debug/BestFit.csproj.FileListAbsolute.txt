@@ -1,0 +1,18 @@
+C:\Users\lenovo.ienovo\Desktop\BestFit\BestFit\bin\Debug\BestFit.exe.config
+C:\Users\lenovo.ienovo\Desktop\BestFit\BestFit\bin\Debug\BestFit.exe
+C:\Users\lenovo.ienovo\Desktop\BestFit\BestFit\bin\Debug\BestFit.pdb
+C:\Users\lenovo.ienovo\Desktop\BestFit\BestFit\obj\Debug\BestFit.csprojResolveAssemblyReference.cache
+C:\Users\lenovo.ienovo\Desktop\BestFit\BestFit\obj\Debug\BestFit.Form1.resources
+C:\Users\lenovo.ienovo\Desktop\BestFit\BestFit\obj\Debug\BestFit.Properties.Resources.resources
+C:\Users\lenovo.ienovo\Desktop\BestFit\BestFit\obj\Debug\BestFit.csproj.GenerateResource.Cache
+C:\Users\lenovo.ienovo\Desktop\BestFit\BestFit\obj\Debug\BestFit.exe
+C:\Users\lenovo.ienovo\Desktop\BestFit\BestFit\obj\Debug\BestFit.pdb
+C:\Users\maihossam\Documents\Visual Studio 2015\Projects\BestFit\BestFit\BestFit\bin\Debug\BestFit.exe.config
+C:\Users\maihossam\Documents\Visual Studio 2015\Projects\BestFit\BestFit\BestFit\obj\Debug\BestFit.exe
+C:\Users\maihossam\Documents\Visual Studio 2015\Projects\BestFit\BestFit\BestFit\obj\Debug\BestFit.pdb
+C:\Users\maihossam\Documents\Visual Studio 2015\Projects\BestFit\BestFit\BestFit\bin\Debug\BestFit.exe
+C:\Users\maihossam\Documents\Visual Studio 2015\Projects\BestFit\BestFit\BestFit\bin\Debug\BestFit.pdb
+C:\Users\maihossam\Documents\Visual Studio 2015\Projects\BestFit\BestFit\BestFit\obj\Debug\BestFit.csprojResolveAssemblyReference.cache
+C:\Users\maihossam\Documents\Visual Studio 2015\Projects\BestFit\BestFit\BestFit\obj\Debug\BestFit.Form1.resources
+C:\Users\maihossam\Documents\Visual Studio 2015\Projects\BestFit\BestFit\BestFit\obj\Debug\BestFit.Properties.Resources.resources
+C:\Users\maihossam\Documents\Visual Studio 2015\Projects\BestFit\BestFit\BestFit\obj\Debug\BestFit.csproj.GenerateResource.Cache
